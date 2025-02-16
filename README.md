@@ -2,12 +2,14 @@
 <html>
 <body>
     <h1>🚁 Autonomous & Manual QuadCopter Project</h1>
+    <BR>
     <h2>📌 Project Overview</h2>
     <p>This project aims to demonstrate, through a physical prototype, the feasibility of a quadrotor drone capable of operating in two modes:</p>
     <ul>
         <li>✅ <strong>Manual Mode</strong> – Controlled by a pilot.</li>
         <li>✅ <strong>Autonomous Mode</strong> – Executes a predefined flight sequence without pilot intervention.</li>
     </ul>
+    <BR>
     <h2>✈️ Flight Sequence</h2>
     <p>The predefined flight sequence consists of:</p>
     <ol>
@@ -16,6 +18,7 @@
         <li>Vertical Landing</li>
     </ol>
     <p>The drone will maintain an altitude of 1.50m ± 50cm and follow a 4-checkpoint path.</p>
+    <BR>
     <h2>🎯 Key Objectives</h2>
     <ul>
         <li>🔹 <strong>Safety First</strong> – The manual override must be possible at any moment during autonomous flight.</li>
@@ -24,6 +27,7 @@
         <li>🔹 <strong>Clear Mode Indicator</strong> – A visible light signal must indicate when autonomous mode is active.</li>
         <li>🔹 <strong>Wind Sensitivity Analysis</strong> – The drone's stability and drift due to wind should be evaluated.</li>
     </ul>
+    <BR>
     <h2>🛠️ Technical Requirements</h2>
     <ul>
         <li>The drone must be an electric quadcopter.</li>
@@ -37,6 +41,7 @@
         <li>Arming the drone is only possible in manual mode.</li>
         <li>The drone must fit within a 50cm x 50cm x 50cm cube.</li>
     </ul>
+    <BR>
     <h2>🛠️ Hardware Components</h2>
     <ul>
         <li><strong>Motors:</strong>
