@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Autonomous & Manual QuadCopter Project</title>
-</head>
 <body>
     <h1>🚁 Autonomous & Manual QuadCopter Project</h1>
     <h2>📌 Project Overview</h2>
@@ -69,6 +66,7 @@
             </ul>
         </li>
     </ul> 
-    <p>💡 Feel free to contribute and follow the progress of this project! 🚀</p>
+    <BR>
+    <h3>💡 Feel free to contribute to this project! 🚀</h3>
 </body>
 </html>
