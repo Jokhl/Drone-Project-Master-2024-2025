@@ -5,7 +5,7 @@
 <h3>📁 Available Files</h3>
 <ul>
     <li><strong>.xlsx file</strong> – References all pin connections.</li>
-    <li><strong>.arduino files</strong> – Contains the control code.</li>
+    <li><strong>.ino files</strong> – Contains the control code in arduino.</li>
 </ul>
 
 <h3>🖥️ Arduino Code Structure</h3>
