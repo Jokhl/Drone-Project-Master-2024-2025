@@ -1,4 +1,4 @@
-<h2>📂 Soft-Hardware Overview</h2>
+<h2>📂 Soft-& Hardware Overview</h2>
 
 <p>This section provides all necessary files and components to replicate and build the system.</p>
 
