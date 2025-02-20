@@ -21,11 +21,11 @@
     <BR>
     <h2>🎯 Key Objectives</h2>
     <ul>
-        <li>🔹 <strong>Safety First</strong> – The manual override must be possible at any moment during autonomous flight.</li>
-        <li>🔹 <strong>Smooth Takeoff & Landing</strong> – The drone must gradually take off and land gently.</li>
-        <li>🔹 <strong>Stable Manual Control</strong> – It should be easy to fly manually.</li>
-        <li>🔹 <strong>Clear Mode Indicator</strong> – A visible light signal must indicate when autonomous mode is active.</li>
-        <li>🔹 <strong>Wind Sensitivity Analysis</strong> – The drone's stability and drift due to wind should be evaluated.</li>
+        <li></li><strong>Safety First</strong> – The manual override must be possible at any moment during autonomous flight.</li>
+        <li><strong>Smooth Takeoff & Landing</strong> – The drone must gradually take off and land gently.</li>
+        <li><strong>Stable Manual Control</strong> – It should be easy to fly manually.</li>
+        <li><strong>Clear Mode Indicator</strong> – A visible light signal must indicate when autonomous mode is active.</li>
+        <li><strong>Wind Sensitivity Analysis</strong> – The drone's stability and drift due to wind should be evaluated.</li>
     </ul>
     <BR>
     <h2>🛠️ Technical Requirements</h2>
