@@ -1,12 +1,12 @@
 <h2>📂 Soft-& Hardware Overview</h2>
     <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part like here : </p>
-    <table>
+    <table style="border-collapse: collapse; border: none;">
       <tr>
-        <td align="center">
+        <td align="center"  style="border: none;">
           <img src="https://drive.google.com/uc?export=view&id=1mhiAB3AUSWgGtcH4OUx5kZJcbENg6C26" alt="Back View" width="300"><br>
           <b>Back View</b>
         </td>
-        <td align="center">
+        <td align="center"  style="border: none;">
           <img src="https://drive.google.com/uc?export=view&id=1eGuo_ZY5YsGg81ZiYGtS0nQbABL58_M9" alt="Front View" width="300"><br>
           <b>Front View</b>
         </td>
