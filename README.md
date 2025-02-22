@@ -1,6 +1,6 @@
 <h2>📂 Soft-& Hardware Overview</h2>
     <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part like here : </p>
-    <img src="C:\Users\joach\OneDrive\EPF Enginnering School\5A\Projet Drone\Pictures\Backview.jpg" alt="Electronic System Overview" width="600">
+    <img src="C:/Users/joach/OneDrive/EPF Enginnering School/5A/Projet Drone/Pictures/Backview.jpg" alt="Electronic System Overview" width="600">
     <h3>😁 Available Files</h3>
     <ul>
         <li><strong>.xlsx file</strong> – References all pin connections.</li>
