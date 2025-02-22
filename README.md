@@ -21,9 +21,15 @@
         </ul>
     </li>
     <li>Connect all components according to the <strong>.xlsx connection file</strong>.</li>
-    <li>Perform UWB calibration using the provided calibration scripts.</li>
+    <li>Perform UWB calibration using the provided calibration scripts:
+        <ul>
+            <li>Define anchor positions in the <strong>ESP32-UWB-DW1000 (Anchor)</strong> code under <code>#define ANCHOR_POS_X</code>, <code>#define ANCHOR_POS_Y</code>, and <code>#define ANCHOR_POS_Z</code>.</li>
+            <li>Set the tag reference position in the <strong>ESP32-UWB-DW1000 (Tag)</strong> code under <code>#define TAG_INIT_POS</code>.</li>
+            <li>Adjust signal strength and ranging accuracy in the configuration file <code>config.h</code>.</li>
+        </ul>
+    </li>
     <li>Start the system and monitor the data exchange between ESP modules.</li>
-    <li>Adjust parameters such as signal strength and positioning accuracy in the configuration files.</li>
+    <li>Tune parameters such as update rate and filtering thresholds in <code>config.h</code> for improved accuracy.</li>
 </ol>
 
 <h3>🔦 Arduino Code Structure</h3>
