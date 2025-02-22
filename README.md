@@ -1,5 +1,5 @@
 <h2>📂 Soft-& Hardware Overview</h2>
-    <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part like here : </p>
+    <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part on the pink support : </p>
     <table style="border: none;">
       <tr>
         <td align="center"  style="border: none;">
@@ -36,6 +36,8 @@
         <li>📌 <a href="https://www.amazon.fr/RFElettronica-Transmetteur-t%C3%A9l%C3%A9commande-r%C3%A9cepteur-FS-iA10B/dp/B08YQVPX2Y" target="_blank">RC FlySky FS-i6 & FS-ia6b</a></li>
         <li>📌 <a href="https://www.studiosport.fr/batterie-lipo-4s-3700-mah-45c-xt60-tattu-a12185.html" target="_blank">Battery LiPo 4S 3700mAh 45C Tattu</a></li>
         <li>📌 <a href="https://openelab.io/fr/products/holybro-pm06-module" target="_blank">Power Module Holybro PM06 V2</a></li>
+        <li>📌 <a href="https://www.az-delivery.de/fr/products/0-96zolldisplay" target="_blank">OLED screen SSD1306 0x96 I2C</a></li>
+        <li>📌 <a href="https://www.az-delivery.de/fr/products/4x4-matrix-keypad" target="_blank">Keypad 4x4 compatible Arduino</a></li>
     </ul>
     <h3>💧 Setup & Usage Guide</h3>
     <h4>Anchor Calibration</h4>
