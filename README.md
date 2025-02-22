@@ -1,5 +1,6 @@
 <h2>📂 Soft-& Hardware Overview</h2>
-    <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part. </p>
+    <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part like here : </p>
+    <img src="C:\Users\joach\OneDrive\EPF Enginnering School\5A\Projet Drone\Pictures\Backview.jpg" alt="Electronic System Overview" width="600">
     <h3>😁 Available Files</h3>
     <ul>
         <li><strong>.xlsx file</strong> – References all pin connections.</li>
@@ -64,5 +65,3 @@ const char* password = "christa2"; </pre>
     <p>All connection details can be found in the following file:</p>
     <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
     <h3>🔌 Electronic System Overview</h3>
-    <p>Below is an image of the electronic setup:</p>
-    <img src="images/electronic_setup.jpg" alt="Electronic System Overview" width="600">
