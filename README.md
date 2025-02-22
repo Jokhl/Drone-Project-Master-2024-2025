@@ -1,6 +1,6 @@
 <h2>📂 Soft-& Hardware Overview</h2>
     <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part like here : </p>
-    <img src="C:/Users/joach/OneDrive/EPF Enginnering School/5A/Projet Drone/Pictures/Backview.jpg" alt="Electronic System Overview" width="600">
+    <img src="[https://your-external-hosting.com/your-image.jpg](https://drive.google.com/file/d/1mhiAB3AUSWgGtcH4OUx5kZJcbENg6C26/view?usp=drive_link)" alt="Electronic System Overview" width="600">
     <img src="C:/Users/joach/OneDrive/EPF Enginnering School/5A/Projet Drone/Pictures/Frontview.jpg" alt="Electronic System Overview" width="600">
     <h3>😁 Available Files</h3>
     <ul>
