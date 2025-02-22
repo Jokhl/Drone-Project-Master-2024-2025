@@ -3,11 +3,11 @@
     <table style="border: none;">
       <tr>
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1mhiAB3AUSWgGtcH4OUx5kZJcbENg6C26" alt="Back View" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1mhiAB3AUSWgGtcH4OUx5kZJcbENg6C26" alt="Front View" width="300"><br>
           <b>Back View</b>
         </td>
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1eGuo_ZY5YsGg81ZiYGtS0nQbABL58_M9" alt="Front View" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1eGuo_ZY5YsGg81ZiYGtS0nQbABL58_M9" alt="Back View" width="300"><br>
           <b>Front View</b>
         </td>
       </tr>
