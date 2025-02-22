@@ -1,5 +1,5 @@
 <h2>📂 Soft-& Hardware Overview</h2>
-    <p>This section provides all necessary files and components to replicate and build the system.</p>
+    <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part. </p>
     <h3>😁 Available Files</h3>
     <ul>
         <li><strong>.xlsx file</strong> – References all pin connections.</li>
@@ -47,15 +47,18 @@ Anchor anchors[3] = {
     {0x84, 0.0, 0.0, 0.0},
     {0x85, 2.0, 0.0, 0.0},
     {0x86, 1.0, 1.0, 0.0}
-};
-            </pre>
+};</pre>
         </li>
     </ol>
     <h4>System Setup</h4>
     <ol>
         <li>Power the three ground anchors using external batteries or different computers for easy placement.</li>
         <li>Connect all necessary components according to the provided .xlsx file.</li>
-        <li>Start the drone system (without propellers) to verify correct functionality.</li>
+        <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
+        <li>In addition, you may use the WiFi mode of the ESP-WROOM-32 to open a WebSerial page on your pc (which has to be connected to the same network as your card). Just change the following WiFi informations : <pre>
+const char* ssid = "Joachim";
+const char* password = "christa2"; </pre>
+        </li>
     </ol>
     <h3>💊 Connection Details</h3>
     <p>All connection details can be found in the following file:</p>
