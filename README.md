@@ -2,14 +2,32 @@
 
 <p>This section provides all necessary files and components to replicate and build the system.</p>
 
-<h3>📁 Available Files</h3>
+<h3>💁 Available Files</h3>
 <ul>
     <li><strong>.xlsx file</strong> – References all pin connections.</li>
-    <li><strong>.ino files</strong> – Contains the control code in arduino.</li>
+    <li><strong>.ino files</strong> – Contains the control code in Arduino.</li>
+    <li><strong>Calibration scripts</strong> – Includes scripts to calibrate the UWB system.</li>
+    <li><strong>ESP32-UWB communication files</strong> – Handles data transmission between ESP32-UWB modules.</li>
 </ul>
 
-<h3>🖥️ Arduino Code Structure</h3>
-<p>The system consists of three Arduino files:</p>
+<h3>💧 Setup & Usage Guide</h3>
+<p>Follow these steps to set up and run the system:</p>
+<ol>
+    <li>Upload the appropriate code to each ESP32 module:
+        <ul>
+            <li>Flash <strong>ESP-WROOM-32</strong> with the main controller code.</li>
+            <li>Flash <strong>ESP32-UWB-DW1000 (Tag)</strong> with the tag firmware.</li>
+            <li>Flash <strong>ESP32-UWB-DW1000 (Anchor)</strong> with the anchor firmware.</li>
+        </ul>
+    </li>
+    <li>Connect all components according to the <strong>.xlsx connection file</strong>.</li>
+    <li>Perform UWB calibration using the provided calibration scripts.</li>
+    <li>Start the system and monitor the data exchange between ESP modules.</li>
+    <li>Adjust parameters such as signal strength and positioning accuracy in the configuration files.</li>
+</ol>
+
+<h3>🔦 Arduino Code Structure</h3>
+<p>The system consists of the following Arduino files:</p>
 <ul>
     <li><strong>ESP-WROOM-32</strong>: Main controller managing the overall system.</li>
     <li><strong>ESP32-UWB-DW1000 (Tag)</strong>: Returns space location data to the ESP-WROOM-32.</li>
