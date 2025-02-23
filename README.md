@@ -39,8 +39,8 @@
         <li>Connect two ESP32-UWB-DW1000 modules to a computer using the micro-USB port on the board. Also, connect another ESP32-UWB-DW1000 module as the transmitter.</li>
         <li>Flashing the Firmware:
             <ul>
-                <li>Upload "Antenna-Calibration.ino" to the ESP32-UWB-DW1000 that will act as an anchor. Adjust the target distance in the line <code>float this_anchor_target_distance = 1</code>. Record the plotted delay value for later use.</li>
-                <li>Upload "Anchor-Configuration.ino" to the same module, updating <code>uint16_t Adelay = 16570</code> with the calibrated delay. Ensure the calibration distance remains the same (<code>float dist_m = 1</code>). Set the anchor’s address under <code>char anchor_addr[] = "84:00:5B:D5:A9:9A:E2:9C"</code>.</li>
+                <li>Upload "Antenna-Calibration.ino" to the ESP32-UWB-DW1000 that will act as an anchor. Adjust the target distance in the line <code>float this_anchor_target_distance = 1</code> as you place the compenents physicaly. Record the plotted delay value on the serial monitor for later use.</li>
+                <li>Upload "Anchor-Configuration.ino" to the same module, updating <code>uint16_t Adelay = 16570</code> with the calibrated delay value. Ensure the calibration distance remains the same as the previous one used for the calibration (<code>float dist_m = 1</code>). Finally, set the wished anchor’s address under <code>char anchor_addr[] = "84:00:5B:D5:A9:9A:E2:9C"</code>.</li>
             </ul>
         </li>
         <li>Repeat the process for the other two anchors.</li>
@@ -49,15 +49,21 @@
     <ol>
         <li>Connect the ESP32-UWB-DW1000 tag to a computer via micro-USB.</li>
         <li>Upload "ESP32-UWB-DW1000.ino" to the tag.</li>
-        <li>Modify the following lines in the code to set correct anchor addresses and positions:
+        <li>Modify the following lines in the code to set correct anchor addresses and positions depending on your real configuration :
             <pre>
-Anchor anchors[3] = {
-    {0x84, 0.0, 0.0, 0.0},
-    {0x85, 2.0, 0.0, 0.0},
-    {0x86, 1.0, 1.0, 0.0}
-};</pre>
+                Anchor anchors[3] = {
+                    {0x84, 0.0, 0.0, 0.0},
+                    {0x85, 2.0, 0.0, 0.0},
+                    {0x86, 1.0, 1.0, 0.0}
+                };</pre>
         </li>
     </ol>
+    <table style="border: none;">
+        <td align="center"  style="border: none;">
+          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor configuration" width="300"><br>
+          <b>3D Print</b>
+        </td>
+    </table>
     <h4>System Setup</h4>
     <ol>
         <li>3D Print the support
