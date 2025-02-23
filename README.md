@@ -60,7 +60,7 @@
     </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor configuration" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor positionning for the tag configuration " width="300"><br>
           <b>Exemple of anchor configuration</b>
         </td>
     </table>
