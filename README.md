@@ -22,7 +22,7 @@
         <li><strong>Electrical-component-support.step</strong> – CAO file for the pink support for electrical component.</li>
     </ul>
     <h3>⚙️ Required Components for this part (this is not refering to the whole system)</h3>
-    <ul>
+    <ul style="list-style-type: none;">
         <li>📌 <a href="https://www.az-delivery.de/fr/products/esp32-nodemcu-module-wlan-wifi-dev-kit-c-development-board-mit-cp2102-und-usb-c-anschluss-esp-32-esp32-wroom-32-kompatibel-mit-arduino" target="_blank">ESP-WROOM-32</a></li>
         <li>📌 <a href="https://www.gotronic.fr/art-carte-esp32-uwb-dw1000-38055.htm" target="_blank">4x ESP32-UWB-DW1000</a></li>
         <li>📌 <a href="https://www.rc-passion.com/module-d-ecolage-4-voies-pour-l-entrainement/" target="_blank">Protronik 4CH Trainer</a></li>
