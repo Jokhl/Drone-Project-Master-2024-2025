@@ -78,8 +78,12 @@ const char* password = "YourWiFiPassword";</pre>
     </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1nQTwnrG3usHxKhjVjQi22DmFgerS3EiZ" alt="3D Print" width="300"><br>
-          <b>3D Print</b>
+          <img src="https://drive.google.com/uc?export=view&id=1CfWfBSkVuJKMw5xtFqDtPJ2En5hf7A5C" alt="3D Print on the printer" width="300"><br>
+          <b>3D Print on the printer</b>
+        </td>
+        <td align="center"  style="border: none;">
+          <img src="https://drive.google.com/uc?export=view&id=1v2WcK0cmV-BQclsd4JV1Uzgyqit0P7hA" alt="3D Print result" width="300"><br>
+          <b>3D Print result</b>
         </td>
     </table>
     <h3>💊 Connection Details</h3>
