@@ -32,6 +32,7 @@
         <li>📌 <a href="https://openelab.io/fr/products/holybro-pm06-module" target="_blank">Power Module Holybro PM06 V2</a></li>
         <li>📌 <a href="https://www.az-delivery.de/fr/products/0-96zolldisplay" target="_blank">OLED screen SSD1306 0x96 I2C</a></li>
         <li>📌 <a href="https://www.az-delivery.de/fr/products/4x4-matrix-keypad" target="_blank">Keypad 4x4 compatible Arduino</a></li>
+        <li>📌 <a href="https://www.amazon.fr/Breadboard-prototype-universelle-dalimentation-Raspberry/dp/B07LF84HWK" target="_blank">Breadboard (restricted dimensions due to the printed support configuration)</a></li>
     </ul>
     <h3>💧 Setup & Usage Guide</h3>
     <h4>Anchor Calibration</h4>
