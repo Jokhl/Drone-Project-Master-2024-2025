@@ -60,8 +60,8 @@
     </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor positionning for the tag configuration " width="300"><br>
-          <b>Exemple of anchor configuration</b>
+          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor positionning for tag configuration" width="300"><br>
+          <b>Exemple of anchor positionning for tag configuration</b>
         </td>
     </table>
     <h4>System Setup</h4>
