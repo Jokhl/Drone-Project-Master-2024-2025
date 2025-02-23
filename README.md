@@ -72,8 +72,8 @@ Anchor anchors[3] = {
         <li>Connect all necessary components according to the provided .xlsx file.</li>
         <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
         <li>In addition, you may use the WiFi mode of the ESP-WROOM-32 to open a WebSerial page on your pc (which has to be connected to the same network as your card). Just change the following WiFi informations : <pre>
-const char* ssid = "Joachim";
-const char* password = "christa2"; </pre>
+const char* ssid = "YourWiFiSSID";
+const char* password = "YourWiFiPassword";</pre>
         </li>
     </ol>
     <table style="border: none;">
