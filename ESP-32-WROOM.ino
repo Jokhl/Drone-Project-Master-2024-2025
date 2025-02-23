@@ -183,8 +183,8 @@ float alpha = 0.0;
 float zcons = 0.0;
 
 // Vos identifiants WiFi
-const char* ssid = "Joachim";
-const char* password = "christa2";
+const char* ssid = "YourWiFiSSID";
+const char* password = "YourWiFiPassword";
 
 // Création d'un serveur WiFi sur le port 80
 AsyncWebServer server(80); // Création d'un serveur async sur le port 80
