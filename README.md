@@ -19,13 +19,7 @@
         <li><strong>Anchor-Configuration.ino</strong> – Configures the ground anchors with the calibrated delay.</li>
         <li><strong>ESP32-UWB-DW1000.ino</strong> – Code for the ESP32-UWB-DW1000 used as a tag.</li>
         <li><strong>ESP-WROOM-32.ino</strong> – Code for the ESP32 used as the control and decision-making unit.</li>
-    </ul>
-    <h3>🔦 Arduino Code Structure</h3>
-    <p>The system consists of the following Arduino files:</p>
-    <ul>
-        <li><strong>ESP-WROOM-32</strong>: Main controller managing the overall system.</li>
-        <li><strong>ESP32-UWB-DW1000 (Tag)</strong>: Returns spatial location data to the ESP-WROOM-32.</li>
-        <li><strong>ESP32-UWB-DW1000 (Anchor)</strong>: Placed on the ground to assist with positioning.</li>
+        <li><strong>Electrical-component-support.step</strong> – CAO file for the pink support for electrical component.</li>
     </ul>
     <h3>⚙️ Required Components for this part (this is not refering to the whole system)</h3>
     <ul>
@@ -66,6 +60,7 @@ Anchor anchors[3] = {
     </ol>
     <h4>System Setup</h4>
     <ol>
+        <li>3D Print the support
         <li>Power the three ground anchors using external batteries or different computers for easy placement.</li>
         <li>Connect all necessary components according to the provided .xlsx file.</li>
         <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
@@ -74,6 +69,10 @@ const char* ssid = "Joachim";
 const char* password = "christa2"; </pre>
         </li>
     </ol>
+    <td align="center"  style="border: none;">
+      <img src="https://drive.google.com/file/d/1nQTwnrG3usHxKhjVjQi22DmFgerS3EiZ/view?usp=drive_link" alt="Back View" width="300"><br>
+      <b>Back View</b>
+    </td>
     <h3>💊 Connection Details</h3>
     <p>All connection details can be found in the following file:</p>
     <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
