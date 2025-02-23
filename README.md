@@ -61,7 +61,7 @@
     <table style="border: none;">
         <td align="center"  style="border: none;">
           <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor configuration" width="300"><br>
-          <b>3D Print</b>
+          <b>Exemple of anchor configuration</b>
         </td>
     </table>
     <h4>System Setup</h4>
