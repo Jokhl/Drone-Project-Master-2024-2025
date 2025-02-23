@@ -67,7 +67,7 @@ Anchor anchors[3] = {
     </table>
     <h4>System Setup</h4>
     <ol>
-        <li>3D Print the support
+        <li>3D Print the support give by the .step file
         <li>Power the three ground anchors using external batteries or different computers for easy placement.</li>
         <li>Connect all necessary components according to the provided .xlsx file.</li>
         <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
