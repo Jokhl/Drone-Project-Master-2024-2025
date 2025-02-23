@@ -1,5 +1,5 @@
 <h2>📂 Soft-& Hardware Overview</h2>
-    <p>This section provides all necessary files and components to replicate and build the control system, meaning all the electronic part on the pink support : </p>
+    <p>This section provides all necessary files and components to replicate and build the control system, specifically focusing on the electronic components mounted on the pink support structure :</p>
     <table style="border: none;">
       <tr>
         <td align="center"  style="border: none;">
@@ -21,7 +21,7 @@
         <li><strong>ESP-WROOM-32.ino</strong> – Code for the ESP32 used as the control and decision-making unit.</li>
         <li><strong>Electrical-component-support.step</strong> – CAO file for the pink support for electrical component.</li>
     </ul>
-    <h3>⚙️ Required Components for this part (this is not refering to the whole system)</h3>
+    <h3>⚙️ Required Components for this part (this does not refer to the entire system)</h3>
     <ul style="list-style-type: none;">
         <li>📌 <a href="https://www.az-delivery.de/fr/products/esp32-nodemcu-module-wlan-wifi-dev-kit-c-development-board-mit-cp2102-und-usb-c-anschluss-esp-32-esp32-wroom-32-kompatibel-mit-arduino" target="_blank">ESP-WROOM-32</a></li>
         <li>📌 <a href="https://www.gotronic.fr/art-carte-esp32-uwb-dw1000-38055.htm" target="_blank">4x ESP32-UWB-DW1000</a></li>
@@ -61,8 +61,8 @@ Anchor anchors[3] = {
     </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Exemple of anchor positionning for tag configuration" width="300"><br>
-          <b>Exemple of anchor positionning for tag configuration</b>
+          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Example of anchor positioning for tag configuration" width="300"><br>
+          <b>Example of anchor positioning for tag configuration</b>
         </td>
     </table>
     <h4>System Setup</h4>
@@ -71,7 +71,7 @@ Anchor anchors[3] = {
         <li>Power the three ground anchors using external batteries or different computers for easy placement.</li>
         <li>Connect all necessary components according to the provided .xlsx file.</li>
         <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
-        <li>In addition, you may use the WiFi mode of the ESP-WROOM-32 to open a WebSerial page on your pc (which has to be connected to the same network as your card). Just change the following WiFi informations : <pre>
+        <li>In addition, you may use the WiFi mode of the ESP-WROOM-32 to open a WebSerial page on your pc (which has to be connected to the same network as your card). Simply update the following WiFi credentials : <pre>
 const char* ssid = "YourWiFiSSID";
 const char* password = "YourWiFiPassword";</pre>
         </li>
