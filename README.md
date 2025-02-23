@@ -1,5 +1,5 @@
 <h2>📂 Soft-& Hardware Overview</h2>
-    <p>This section provides all necessary files and components to replicate and build the control system, specifically focusing on the electronic components mounted on the pink support structure :</p>
+    <p>This section aims to implement the indoor localization system based on Ultra-Wideband (UWB) technology placed on the pink support structure. We use a trilateration method to estimate the drone's position in real-time. The system relies on three fixed anchors positioned on the ground and a receiving tag installed on the drone. By measuring the distances between the anchors and the tag, we can calculate the drone's position with high accuracy, helping to improve autonomous navigation and trajectory control in confined environments :</p>
     <table style="border: none;">
       <tr>
         <td align="center"  style="border: none;">
@@ -86,3 +86,4 @@ const char* password = "YourWiFiPassword";</pre>
     <p>All connection details can be found in the following file:</p>
     <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
     <h3>🔌 Electronic System Overview</h3>
+    <p>Détails sur l'utilisation finale – Après l’installation, comment le système est censé fonctionner en conditions réelles ? Comment vérifier qu’il marche correctement ?</p>
