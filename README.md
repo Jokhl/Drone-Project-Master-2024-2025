@@ -69,10 +69,12 @@ const char* ssid = "Joachim";
 const char* password = "christa2"; </pre>
         </li>
     </ol>
-    <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/file/d/1nQTwnrG3usHxKhjVjQi22DmFgerS3EiZ/view?usp=drive_link" alt="3D Print" width="300"><br>
-      <b>Back View</b>
-    </td>
+    <table style="border: none;">
+        <td align="center"  style="border: none;">
+          <img src="https://drive.google.com/uc?export=view&id=1nQTwnrG3usHxKhjVjQi22DmFgerS3EiZ" alt="3D Print" width="300"><br>
+          <b>3D Print</b>
+        </td>
+    </table>
     <h3>💊 Connection Details</h3>
     <p>All connection details can be found in the following file:</p>
     <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
