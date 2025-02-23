@@ -70,7 +70,7 @@ const char* password = "christa2"; </pre>
         </li>
     </ol>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/file/d/1nQTwnrG3usHxKhjVjQi22DmFgerS3EiZ/view?usp=drive_link" alt="Back View" width="300"><br>
+      <img src="https://drive.google.com/file/d/1nQTwnrG3usHxKhjVjQi22DmFgerS3EiZ/view?usp=drive_link" alt="3D Print" width="300"><br>
       <b>Back View</b>
     </td>
     <h3>💊 Connection Details</h3>
