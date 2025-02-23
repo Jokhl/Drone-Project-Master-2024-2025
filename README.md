@@ -50,12 +50,12 @@
         <li>Connect the ESP32-UWB-DW1000 tag to a computer via micro-USB.</li>
         <li>Upload "ESP32-UWB-DW1000.ino" to the tag.</li>
         <li>Modify the following lines in the code to set correct anchor addresses and positions depending on your real configuration :
-            <pre>
-                Anchor anchors[3] = {
-                    {0x84, 0.0, 0.0, 0.0},
-                    {0x85, 2.0, 0.0, 0.0},
-                    {0x86, 1.0, 1.0, 0.0}
-                };</pre>
+<pre>
+Anchor anchors[3] = {
+    {0x84, 0.0, 0.0, 0.0},
+    {0x85, 2.0, 0.0, 0.0},
+    {0x86, 1.0, 1.0, 0.0}
+};</pre>
         </li>
     </ol>
     <table style="border: none;">
