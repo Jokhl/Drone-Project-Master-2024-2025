@@ -37,7 +37,7 @@
     <h3>💧 Setup & Usage Guide</h3>
     <h4>Anchor Calibration</h4>
     <ol>
-        <li>Connect two ESP32-UWB-DW1000 modules to a computer using the micro-USB port on the board. Also, connect another ESP32-UWB-DW1000 module as the transmitter.</li>
+        <li>Connect two ESP32-UWB-DW1000 modules to a computer using the micro-b port on the board. Also, connect another ESP32-UWB-DW1000 module as the transmitter.</li>
         <li>Flashing the Firmware:
             <ul>
                 <li>Upload "Antenna-Calibration.ino" to the ESP32-UWB-DW1000 that will act as an anchor. Adjust the target distance in the line <code>float this_anchor_target_distance = 1</code> as you place the compenents physicaly. Record the plotted delay value on the serial monitor for later use.</li>
@@ -90,4 +90,14 @@ const char* password = "YourWiFiPassword";</pre>
     <p>All connection details can be found in the following file:</p>
     <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
     <h3>🔌 Electronic System Overview</h3>
-    <p>Détails sur l'utilisation finale – Après l’installation, comment le système est censé fonctionner en conditions réelles ? Comment vérifier qu’il marche correctement ?</p>
+    <p>Une fois le système installé selon l'ensemble des prérogatives précédentes, celui-ci peut être testé. Dans l'état actuel, la base volante comprenant le châssis, les moteurs, les ESC, la batterie, etc. n'est pas encore présente. Le montage devrait ainsi comprendre les éléments suivants :
+- Le récepteur radio FlySky FS-ia6b
+- L'encodeur PWM vers PPM
+- Module d'écolage protoronik 4ch trainer
+- Le contrôleur de vol Radiolink Crossflight v1
+- L'ESP32-WROOM-32
+- L'ESP32-UWB-DW1000
+- Les LEDs vertes et rouges
+- Le Keypad 4x4
+- Le buzzer
+A présent, en branchant l'ESP32-WROOM-32 et l'ESP32-UWB-DW1000 qui sert de tag via leur port micro-b à un ordinateur (ou une batterie externe) afin de leur fournir de la tension, on peut vérifier le bon fonctionnement de l'ensemble de l'électronique de bord grâce à l'écran OLED, les leds et les signaux sonores qui permettent d'afficher les informations adéquates en fonction de ce qui est fait sur le système et de la procédure enclenché sur la radiocommande.</p> Détails sur l'utilisation finale – Après l’installation, comment le système est censé fonctionner en conditions réelles ? Comment vérifier qu’il marche correctement ?</p>
