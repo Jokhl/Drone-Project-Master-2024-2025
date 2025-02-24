@@ -89,15 +89,31 @@ const char* password = "YourWiFiPassword";</pre>
     <h3>💊 Connection Details</h3>
     <p>All connection details can be found in the following file:</p>
     <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
-    <h3>🔌 Electronic System Overview</h3>
-    <p>Une fois le système installé selon l'ensemble des prérogatives précédentes, celui-ci peut être testé. Dans l'état actuel, la base volante comprenant le châssis, les moteurs, les ESC, la batterie, etc. n'est pas encore présente. Le montage devrait ainsi comprendre les éléments suivants :
-- Le récepteur radio FlySky FS-ia6b
-- L'encodeur PWM vers PPM
-- Module d'écolage protoronik 4ch trainer
-- Le contrôleur de vol Radiolink Crossflight v1
-- L'ESP32-WROOM-32
-- L'ESP32-UWB-DW1000
-- Les LEDs vertes et rouges
-- Le Keypad 4x4
-- Le buzzer
-A présent, en branchant l'ESP32-WROOM-32 et l'ESP32-UWB-DW1000 qui sert de tag via leur port micro-b à un ordinateur (ou une batterie externe) afin de leur fournir de la tension, on peut vérifier le bon fonctionnement de l'ensemble de l'électronique de bord grâce à l'écran OLED, les leds et les signaux sonores qui permettent d'afficher les informations adéquates en fonction de ce qui est fait sur le système et de la procédure enclenché sur la radiocommande.</p> Détails sur l'utilisation finale – Après l’installation, comment le système est censé fonctionner en conditions réelles ? Comment vérifier qu’il marche correctement ?</p>
+ <h3>🔌 Electronic System Overview</h3>
+<p>Une fois le système installé selon l'ensemble des prérogatives précédentes, celui-ci peut être testé. ✅</p>
+<p>Dans l'état actuel, la base volante comprenant le châssis, les moteurs, les ESC, la batterie et le power module n'est pas encore présente.  
+Le montage réalisé sur le support dédié devrait ainsi comprendre les éléments suivants :</p>
+<ul>
+    <li>📡 <strong>Récepteur radio</strong> FlySky FS-ia6b</li>
+    <li>🔀 <strong>Encodeur</strong> PWM vers PPM</li>
+    <li>🎮 <strong>Module d'écolage</strong> Protoronik 4ch Trainer</li>
+    <li>🛸 <strong>Contrôleur de vol</strong> Radiolink Crossflight v1</li>
+    <li>🔋 <strong>ESP32-WROOM-32</strong></li>
+    <li>📍 <strong>ESP32-UWB-DW1000</strong></li>
+    <li>💡 <strong>LEDs</strong> vertes et rouges</li>
+    <li>⌨️ <strong>Keypad 4x4</strong></li>
+    <li>🔊 <strong>Buzzer</strong></li>
+    <li>📺 <strong>Écran OLED</strong></li>
+</ul>
+<p>🛠️ À présent, en branchant l'<strong>ESP32-WROOM-32</strong> et l'<strong>ESP32-UWB-DW1000</strong>, qui sert de tag, via leur port micro-USB à un ordinateur 💻 
+(ou une batterie externe 🔋) afin de leur fournir de la tension, on peut vérifier le bon fonctionnement de l'ensemble de 
+l'électronique de bord grâce à :</p>
+<ul>
+    <li>📺 <strong>L'écran OLED</strong></li>
+    <li>💡 <strong>Les LEDs</strong></li>
+    <li>🔊 <strong>Les signaux sonores</strong></li>
+</ul>
+<p>Ces éléments permettent d'afficher les informations adéquates en fonction de ce qui est fait sur le système et de la 
+procédure enclenchée sur la radiocommande 🎮.</p>
+<p>🚀 On peut alors passer à la partie <strong>tests</strong>... 🔬✨</p>
+
