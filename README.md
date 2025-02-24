@@ -86,34 +86,32 @@ const char* password = "YourWiFiPassword";</pre>
           <b>3D Print result</b>
         </td>
     </table>
-    <h3>💊 Connection Details</h3>
-    <p>All connection details can be found in the following file:</p>
-    <p><strong>📎 <a href="#">Download Connection File</a></strong></p>
- <h3>🔌 Electronic System Overview</h3>
-<p>Une fois le système installé selon l'ensemble des prérogatives précédentes, celui-ci peut être testé. ✅</p>
-<p>Dans l'état actuel, la base volante comprenant le châssis, les moteurs, les ESC, la batterie et le power module n'est pas encore présente.  
-Le montage réalisé sur le support dédié devrait ainsi comprendre les éléments suivants :</p>
+<h3>🔌 Electronic System Overview</h3>
+<p>Once the system is installed according to the previous requirements, it can be tested. ✅</p>
+<p>At this stage, the flying base including the frame, motors, ESCs, battery, and power module is not yet present.  
+The assembly on the dedicated support should therefore include the following components:</p>
 <ul>
-    <li>📡 <strong>Récepteur radio</strong> FlySky FS-ia6b</li>
-    <li>🔀 <strong>Encodeur</strong> PWM vers PPM</li>
-    <li>🎮 <strong>Module d'écolage</strong> Protoronik 4ch Trainer</li>
-    <li>🛸 <strong>Contrôleur de vol</strong> Radiolink Crossflight v1</li>
+    <li>📡 <strong>Radio receiver</strong> FlySky FS-ia6b</li>
+    <li>🔀 <strong>PWM to PPM encoder</strong></li>
+    <li>🎮 <strong>Trainer module</strong> Protoronik 4ch Trainer</li>
+    <li>🛸 <strong>Flight controller</strong> Radiolink Crossflight v1</li>
     <li>🔋 <strong>ESP32-WROOM-32</strong></li>
     <li>📍 <strong>ESP32-UWB-DW1000</strong></li>
-    <li>💡 <strong>LEDs</strong> vertes et rouges</li>
-    <li>⌨️ <strong>Keypad 4x4</strong></li>
+    <li>💡 <strong>Green and red LEDs</strong></li>
+    <li>⌨️ <strong>4x4 Keypad</strong></li>
     <li>🔊 <strong>Buzzer</strong></li>
-    <li>📺 <strong>Écran OLED</strong></li>
+    <li>📺 <strong>OLED screen</strong></li>
 </ul>
-<p>🛠️ À présent, en branchant l'<strong>ESP32-WROOM-32</strong> et l'<strong>ESP32-UWB-DW1000</strong>, qui sert de tag, via leur port micro-USB à un ordinateur 💻 
-(ou une batterie externe 🔋) afin de leur fournir de la tension, on peut vérifier le bon fonctionnement de l'ensemble de 
-l'électronique de bord grâce à :</p>
+<p>🛠️ Now, by connecting the <strong>ESP32-WROOM-32</strong> and the <strong>ESP32-UWB-DW1000</strong>, which serves as a tag, 
+via their micro-USB port to a computer 💻 (or an external battery 🔋) to provide power, 
+we can verify the proper functioning of the onboard electronics using:</p>
 <ul>
-    <li>📺 <strong>L'écran OLED</strong></li>
-    <li>💡 <strong>Les LEDs</strong></li>
-    <li>🔊 <strong>Les signaux sonores</strong></li>
+    <li>📺 <strong>The OLED screen</strong></li>
+    <li>💡 <strong>The LEDs</strong></li>
+    <li>🔊 <strong>The sound signals</strong></li>
 </ul>
-<p>Ces éléments permettent d'afficher les informations adéquates en fonction de ce qui est fait sur le système et de la 
-procédure enclenchée sur la radiocommande 🎮.</p>
-<p>🚀 On peut alors passer à la partie <strong>tests</strong>... 🔬✨</p>
+<p>These elements allow displaying the appropriate information based on the actions performed on the system and the procedure 
+triggered by the remote controller 🎮.</p>
+<p>🚀 Now, we can move on to the <strong>testing phase</strong>... 🔬✨</p>
+
 
