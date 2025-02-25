@@ -18,6 +18,14 @@
         <li>Vertical Landing</li>
     </ol>
     <p>The drone will maintain an altitude of 1.50m ± 50cm and follow a 4-checkpoint path.</p>
+    <table style="border: none;">
+      <tr>
+        <td align="center"  style="border: none;">
+          <img src="https://drive.google.com/uc?export=view&id=1kNifYnU6BgreVVT3TI_HxH7QWpzfhgN6" alt="View of the flight"><br>
+          <b>View of the flight</b>
+        </td>
+      </tr>
+    </table>
     <BR>
     <h2>🎯 Key Objectives</h2>
     <ul>
