@@ -1,8 +1,8 @@
-<h1>Summary of Tests Conducted on the Demonstrator</h1>
+<h1>🚀 Summary of Tests Conducted on the Demonstrator</h1>
 
 <p>All test results can be found in the documents uploaded in the 'Tests' section. Refer to the project report in the 'main' section for more details on the different tests conducted.</p>
 
-<h2>Power Chain Test</h2>
+<h2>⚡ Power Chain Test</h2>
 <p>
     The objective of this test was to validate the choice of motorization and ensure it would satisfy the requirements by quantifying the thrust produced by the motor as a function of rotation speeds on a motor test bench.
 </p>
@@ -27,7 +27,7 @@
 </table>
 
 
-<h2>Flying Base Test</h2>
+<h2>🛩️ Flying Base Test</h2>
 <p>
     The objective of this test was to verify the proper functioning of the entire flying base to ensure a reliable and functional working base capable of acquiring the autopilot. The expected validations were: reception and transmission of signals between the radio remote control and the flight controller with 6 input channels, stabilization and piloting of the drone possible without great difficulty, and sound feedback during arming and disarming.
 </p>
@@ -49,7 +49,7 @@
 </table>
 
 
-<h2>Spatial Coordinate Acquisition Test</h2>
+<h2>📡 Spatial Coordinate Acquisition Test</h2>
 <p>
     The objective of this test was to validate the proper functioning of the positioning beacons as part of the localization project. These tests aimed to ensure that the system allowed for accurate position acquisition and efficient data processing for automatic drone piloting. The expected validations were: acquisition of position data from ground beacons and the main beacon on the drone, and processing of acquired data to adjust the drone's trajectory in real time.
 </p>
@@ -78,7 +78,7 @@
 </table>
 
 
-<h2>Display and Acquisition of Distance to Travel Test</h2>
+<h2>📏 Display and Acquisition of Distance to Travel Test</h2>
 <p>
     The objective of this test was to verify the proper functioning of the reception of the distance to travel via the integrated keyboard and to verify the proper display on the OLED screen used.
 </p>
@@ -100,7 +100,7 @@
 
 
 
-<h2>Signal Switching and Reception Test</h2>
+<h2>🔄 Signal Switching and Reception Test</h2>
 <p>
     The objective of this test was to verify the proper functioning of the switching system and the correct reception and emission of signals. These tests validated whether the drone responded correctly to the right commands at the right times. The expected validations were: reception and transmission of signals between the radio remote control and the flight controller with 6 input channels, switching between manual mode and automatic mode with visual feedback for the operator, and arming and disarming of the drone with sound feedback and a coherent motor response.
 </p>
@@ -125,7 +125,7 @@
 </table>
 
 
-<h2>Autonomy and Stabilization Test in Manual Mode</h2>
+<h2>🔋 Autonomy and Stabilization Test in Manual Mode</h2>
 <p>
     The objective of this test was twofold. It was to operationally test the battery autonomy and also to determine the motor rotation speed command settings for the different flight phases, whether at takeoff or during stabilization. This would serve to implement coherent value ranges in the automatic control system based on the battery state. The expected validations were: battery autonomy consistent with theoretical calculations and extraction of stabilization values at different flight phases via a Web interface.
 </p>
@@ -150,7 +150,7 @@
 </table>
 
 
-<h2>Complete Flight Sequence Test Without Propellers</h2>
+<h2>🛠️ Complete Flight Sequence Test Without Propellers</h2>
 <p>
     The objective of the test was to test the functioning of the automatic module for a flight sequence without horizontal movement (ascent, stabilization, descent) without propellers. This allowed for easy observation of all data from the autopilot, including position acquisition and the resulting commands, by being directly connected to it via the computer's USB port. The expected validations were: position acquisition consistent with the actual position, motor commands consistent with expected behavior, and automatic system failure at the end of the flight sequence.
 </p>
@@ -175,7 +175,7 @@
 </table>
 
 
-<h2>Complete Flight Sequence Test With Propellers and in Semi-Automatic Mode</h2>
+<h2>✈️ Complete Flight Sequence Test With Propellers and in Semi-Automatic Mode</h2>
 <p>
     The objective of the test was to test the functioning of the automatic module for a complete flight sequence without horizontal movement (ascent, stabilization, descent) with propellers. The particularity of this test was that only the thrust command was automated while all other pitch, roll, and yaw commands were left to the operator. The expected validations were: respect of the flight plan and motor commands consistent with expected behavior.
 </p>
