@@ -1,5 +1,7 @@
 <h1>Summary of Tests Conducted on the Demonstrator</h1>
 
+<p>All test results can be found in the documents uploaded in the 'Tests' section. Refer to the project report in the 'main' section for more details on the different tests conducted.</p>
+
 <h2>Power Chain Test</h2>
 <p>
     The objective of this test was to validate the choice of motorization and ensure it would satisfy the requirements by quantifying the thrust produced by the motor as a function of rotation speeds on a motor test bench.
