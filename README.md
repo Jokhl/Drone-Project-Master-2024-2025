@@ -30,7 +30,6 @@
             </ul>
         </li>
     </ol>
-    <BR>
     <h2>✈️ Flight Sequence</h2>
     <p>The predefined flight sequence consists of:</p>
     <ol>
@@ -47,7 +46,6 @@
         </td>
       </tr>
     </table>
-    <BR>
     <h2>🛠️ Technical Requirements</h2>
     <ul>
         <li>The drone must be an electric quadcopter.</li>
@@ -61,7 +59,6 @@
         <li>Arming the drone is only possible in manual mode.</li>
         <li>The drone must fit within a 50cm x 50cm x 50cm cube.</li>
     </ul>
-    <BR>
     <h2>🛠️ Flying Base Components</h2>
     <ul>
         <li><strong>Motors:</strong>
