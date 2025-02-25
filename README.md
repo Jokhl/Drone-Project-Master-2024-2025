@@ -1,6 +1,6 @@
 <h1>🚀 Summary of Tests Conducted on the Demonstrator</h1>
 
-<p>All test results can be found in the documents uploaded in the 'Tests' section. Refer to the project report in the 'main' section for more details on the different tests conducted.</p>
+<p>Refer to the project report in the 'main' section for more details on the different tests conducted.</p>
 
 <h2>⚡ Power Chain Test</h2>
 <p>
@@ -12,6 +12,8 @@
 <p>
     This test was essential as it enabled the completion of all other tests and ensured that the drone was certified capable of meeting the defined objectives without taking risks by testing it in real simulations. It was therefore an indispensable step in the validation strategy.
 </p>
+
+<p>The test results can be found under the name 'Test_motor_bench'.</p>
 
 <table style="border: none;">
   <tr>
@@ -130,11 +132,13 @@
     The objective of this test was twofold. It was to operationally test the battery autonomy and also to determine the motor rotation speed command settings for the different flight phases, whether at takeoff or during stabilization. This would serve to implement coherent value ranges in the automatic control system based on the battery state. The expected validations were: battery autonomy consistent with theoretical calculations and extraction of stabilization values at different flight phases via a Web interface.
 </p>
 <p>
-    The methodology adopted for this test relied on several steps. The flying system performed different consecutive flights starting the test with the battery charged to its full potential. The battery voltage was measured before and after each flight, during which the thrust command values allowing the drone to stabilize and take off were recorded. This method was justified by the real conditions of the system.
+    The methodology adopted for this test relied on several steps. The flying system performed different consecutive flights starting the test with the battery charged to its full potential. The battery voltage was measured before and after each flight, during which the thrust command values allowing the drone to stabilize and take off were recorded using WebSerial support.
 </p>
 <p>
     In the end, 13 consecutive flights were made during this test and the interpretation of the results showed that all performance criteria were met. The battery discharge occurred correctly, the values were displayed correctly on the Web interface and were consistent with visual observations of the drone. The obtained results revealed a discharge curve that corresponded well to that of a LiPo battery with a thrust command that naturally increased as the battery discharged. The critical zone, marking the beginning of the critical area, was defined at exactly 15 minutes, corresponding well to the theoretical estimates made previously. Additionally, a value range for the thrust command between 1300 and 1400 was defined, encompassing more than 95% of the measured points. The results also allowed for visualization of the different stabilization levels of the drone with a command necessary to allow the drone to compensate for its own weight around 1250 and a stabilization command in the air around 1330.
 </p>
+
+<p>The test results can be found under the name 'Test_pwm_takeoff_&_steady_flight'. Moreover, the code to generate the curves thanks to the values can be found under the name 'Values_analyse_&_extraction'. The last file 'Get_thrust_data_WiFi' gives the code to run on the ESP-WROOM-32 to obtain the power values on a WebSerial support.</p>
 
 <table style="border: none;">
   <tr>
