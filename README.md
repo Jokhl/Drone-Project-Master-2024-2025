@@ -172,7 +172,7 @@
       <b>View of the test</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1WE9X7F20h9HV1eTdGOhZ2suHoEalEelE" alt="Results of the power asked during the flight" width="auto"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1WE9X7F20h9HV1eTdGOhZ2suHoEalEelE" alt="Results of the power asked during the flight" width="500"><br>
       <b>Results of the power asked during the flight</b>
     </td>
   </tr>
