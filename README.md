@@ -58,7 +58,8 @@
         <li>Arming the drone is only possible in manual mode.</li>
         <li>The drone must fit within a 50cm x 50cm x 50cm cube.</li>
     </ul>
-    <h2>🛠️ Flying Base Components</h2>
+    <h2>🛠️ Used Components</h2>
+    <h3>Flying Base Components</h3>
     <ul>
         <li><strong>Motors:</strong>
             <ul>
@@ -80,6 +81,13 @@
             </ul>
         </li>
     </ul> 
-    <h2>Electronic Components</h2>
+    <h3>Electronic Components</h3>
     <p>All electronic components are detailed in the 'soft-& hardware' section.</p>
-    <p>To achieve these objectives, development relies on existing platforms selected as the basis for designing the demonstrator. While these platforms are limited by incomplete information on the final product structure, they allow for assessing the feasibility and credibility of the concept for future mass production. This report details the entire development process, from the initial functional analysis to the demonstration of the assembled demonstrator. It outlines critical engineering decisions, applied methodologies, and the results of testing phases, with a focus on traceability and performance optimization. The approach followed was structured around system engineering principles: needs analysis, functional decomposition, justification of technical choices, integration of subsystems, and final validation through experimentation. This resulted in the creation of a complete virtual system under Matlab/Simulink, available in the file 'Matlab_Simulink_drone,' in order to quantify all parameters and bridge the gap between theory and practice.</p>
+    <h2>Achievement</h2>
+    <p>
+        To achieve these objectives, development relies on existing platforms selected as the basis for designing the demonstrator. While these platforms are limited by incomplete information on the final product structure, they allow for assessing the feasibility and credibility of the concept for future mass production. 
+    <p>
+        This report details the entire development process, from the initial functional analysis to the demonstration of the assembled demonstrator. It outlines critical engineering decisions, applied methodologies, and the results of testing phases, with a focus on traceability and performance optimization. The approach followed was structured around system engineering principles: needs analysis, functional decomposition, justification of technical choices, integration of subsystems, and final validation through experimentation. This resulted in the creation of a complete virtual system under Matlab/Simulink, available in the file 'Matlab_Simulink_drone,' in order to quantify all parameters and bridge the gap between theory and practice.</p>
+    <p>
+        The project team comprises Nicolas ABAT, Alexandre CASTEX, Thomas FORTUNATO, Constance NGUYEN, Julien TAKTALIAN, and Joachim KOEHL as project managers, with the support of Marc BEAUCHET and Thomas LISEMBARD as technical authorities. 
+        </p>
