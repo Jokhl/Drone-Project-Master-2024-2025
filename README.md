@@ -193,8 +193,8 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1JlPGEiBQBPGsqY5pi0VMuSVhQcODxLOD" alt="FLlying autonomous drone" width="300"><br>
-      <b>FLlying autonomous drone</b>
+      <img src="https://drive.google.com/uc?export=view&id=1JlPGEiBQBPGsqY5pi0VMuSVhQcODxLOD" alt="Flying autonomous drone" width="300"><br>
+      <b>Flying autonomous drone</b>
     </td>
   </tr>
 </table>
