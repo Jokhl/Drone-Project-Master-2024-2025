@@ -25,6 +25,7 @@
     <ul style="list-style-type: none;">
         <li>📌 <a href="https://www.az-delivery.de/fr/products/esp32-nodemcu-module-wlan-wifi-dev-kit-c-development-board-mit-cp2102-und-usb-c-anschluss-esp-32-esp32-wroom-32-kompatibel-mit-arduino" target="_blank">ESP-WROOM-32</a></li>
         <li>📌 <a href="https://www.gotronic.fr/art-carte-esp32-uwb-dw1000-38055.htm" target="_blank">4x ESP32-UWB-DW1000</a></li>
+        <li>📌 <a href="https://www.amazon.com/Radiolink-Crossflight-Controller-Integrated-Radartracker/dp/B0C2Q17CRW">Radiolink Crossflight v1.0 with buzzer</a></li>
         <li>📌 <a href="https://www.rc-passion.com/module-d-ecolage-4-voies-pour-l-entrainement/" target="_blank">Protronik 4CH Trainer</a></li>
         <li>📌 <a href="https://www.ebay.com/itm/226085044905" target="_blank">8CH PPM PWM SBUS Signal Converter</a></li>
         <li>📌 <a href="https://www.amazon.fr/RFElettronica-Transmetteur-t%C3%A9l%C3%A9commande-r%C3%A9cepteur-FS-iA10B/dp/B08YQVPX2Y" target="_blank">RC FlySky FS-i6 & FS-ia6b</a></li>
@@ -33,6 +34,8 @@
         <li>📌 <a href="https://www.az-delivery.de/fr/products/0-96zolldisplay" target="_blank">OLED screen SSD1306 0x96 I2C</a></li>
         <li>📌 <a href="https://www.az-delivery.de/fr/products/4x4-matrix-keypad" target="_blank">Keypad 4x4 compatible Arduino</a></li>
         <li>📌 <a href="https://www.amazon.fr/Breadboard-prototype-universelle-dalimentation-Raspberry/dp/B07LF84HWK" target="_blank">Breadboard (restricted dimensions due to the printed support configuration)</a></li>
+        <li>📌 <a href="https://www.amazon.fr/ARCELI-Performance-Couleur-Puissance-%C3%89missives/dp/B07PVVHBNW/ref=sr_1_7?dib=eyJ2IjoiMSJ9.cZm-YS2Aq4tNyjvKj8-KAaG564tPYUAQFLwHQLojSVbnDCz-8Dclj6YFTSlwDBk6AoNv6q0foh_i-rv9wl4Dh-yMw0bpG7Q5jfmYCIs7XDl_SqoQgRy84nm2LqYE3hc_1Y3A-pXvHJfxDxQk8riJYYeO15Dw_gzYVSodg-AhxDUr-96XLG0EXKZUXxyvKxEwo8RLCI4wD1MZazhj2R55nvLllaDLlIJSSzY_cY8OxDJQTY8f5OQSvLlkJQ9mBmYDeduEWjLDd8TR4l9E938qc0VbR3mkf1LRc1hho28aUsUKaB_OsEeFZXdTOBwf3RacH1hMXBbbTDw-1XOS6LGK19wjKuDde_gclAw3A7q1SXxMaKMLFXNzfWJmpL60HKypzZrRL4dm2zAWxyXMzuqOLGPOpUm5BwX-7tQ5u270rWSTLtAO3aMXHS_QpyeclscX.3gygZ2NSXSn_hwcfh2gS7CXBOOGdzoU5mdTnjwMjlkA&dib_tag=se&keywords=led+arduino&qid=1740479071&sr=8-7l" target="_blank">Red LED
+        <li>📌 <a href="https://www.amazon.fr/ARCELI-Performance-Couleur-Puissance-%C3%89missives/dp/B07PVVHBNW/ref=sr_1_7?dib=eyJ2IjoiMSJ9.cZm-YS2Aq4tNyjvKj8-KAaG564tPYUAQFLwHQLojSVbnDCz-8Dclj6YFTSlwDBk6AoNv6q0foh_i-rv9wl4Dh-yMw0bpG7Q5jfmYCIs7XDl_SqoQgRy84nm2LqYE3hc_1Y3A-pXvHJfxDxQk8riJYYeO15Dw_gzYVSodg-AhxDUr-96XLG0EXKZUXxyvKxEwo8RLCI4wD1MZazhj2R55nvLllaDLlIJSSzY_cY8OxDJQTY8f5OQSvLlkJQ9mBmYDeduEWjLDd8TR4l9E938qc0VbR3mkf1LRc1hho28aUsUKaB_OsEeFZXdTOBwf3RacH1hMXBbbTDw-1XOS6LGK19wjKuDde_gclAw3A7q1SXxMaKMLFXNzfWJmpL60HKypzZrRL4dm2zAWxyXMzuqOLGPOpUm5BwX-7tQ5u270rWSTLtAO3aMXHS_QpyeclscX.3gygZ2NSXSn_hwcfh2gS7CXBOOGdzoU5mdTnjwMjlkA&dib_tag=se&keywords=led+arduino&qid=1740479071&sr=8-7l">Green LED
     </ul>
     <h3>💧 Setup & Usage Guide</h3>
     <h4>Anchor Calibration</h4>
