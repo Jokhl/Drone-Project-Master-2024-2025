@@ -50,7 +50,7 @@
         <li>The drone must fit within a 50cm x 50cm x 50cm cube.</li>
     </ul>
     <BR>
-    <h2>🛠️ Hardware Components</h2>
+    <h2>🛠️ Flying base components</h2>
     <ul>
         <li><strong>Motors:</strong>
             <ul>
@@ -65,19 +65,14 @@
                 <li>2x CCW Holybro 1045 S500 v2</li>
             </ul>
         </li>
-        <li><strong>Flight Controller:</strong> Radiolink Crossflight V1</li>
         <li><strong>Frame & Power System:</strong>
             <ul>
                 <li>Chassis: F450</li>
                 <li>Battery: Tatu 4S 3700mAh 45C</li>
             </ul>
         </li>
-        <li><strong>Remote Control System:</strong>
-            <ul>
-                <li>Transmitter: FlySky FS-I6</li>
-                <li>Receiver: FlySky FS-Ia6b</li>
-            </ul>
-        </li>
     </ul> 
+    <h2>🛠️ Electronical components</h2>
+    <p>All electronical components are detailled in the 'soft-& hardware' part.</p>
 </body>
 </html>
