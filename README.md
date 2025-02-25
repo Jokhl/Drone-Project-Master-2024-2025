@@ -40,11 +40,11 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1gyZvQQwIwK_9I0Kle62mnGGhs7xUeYcP" alt="Flight of the flying base" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1gyZvQQwIwK_9I0Kle62mnGGhs7xUeYcP" alt="Flight of the flying base" width="auto"><br>
       <b>Flight of the flying base</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1aOviJ_3V3lzWJdozZoeFVluOCefjE4hd" alt="View of the flying base" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1aOviJ_3V3lzWJdozZoeFVluOCefjE4hd" alt="View of the flying base" width="auto"><br>
       <b>View of the flying base</b>
     </td>
   </tr>
@@ -65,15 +65,15 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1aWt-ueR6snMo7IGHWMDvsq-sR4lq2OLv" alt="View of the test" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1aWt-ueR6snMo7IGHWMDvsq-sR4lq2OLv" alt="View of the test" width="auto"><br>
       <b>View of the test</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1vz6uMzxpaeANnhmqQycZjO8bVxq2lo_6" alt="Ensure the good acquisition with side by side anchor and tag" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1vz6uMzxpaeANnhmqQycZjO8bVxq2lo_6" alt="Ensure the good acquisition with side by side anchor and tag" width="auto"><br>
       <b>Ensure the good acquisition with side by side anchor and tag</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1lPsh8ug1FLAaXvn8MKeKv_8HdM94-FMG" alt="Side by side anchor and tag" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1lPsh8ug1FLAaXvn8MKeKv_8HdM94-FMG" alt="Side by side anchor and tag" width="auto"><br>
       <b>Side by side anchor and tag</b>
     </td>
   </tr>
@@ -94,7 +94,7 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1NsB3csfJmh_vCrh2tskT9ylf6tXGgXbf" alt="View of the test and the used components" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1NsB3csfJmh_vCrh2tskT9ylf6tXGgXbf" alt="View of the test and the used components" width="auto"><br>
       <b>View of the test and the used components</b>
     </td>
   </tr>
@@ -116,11 +116,11 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1Ka3EsFYqN8lSfGo8UHW-kS36_fVNqD_k" alt="Test of the radio command on the drone" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1Ka3EsFYqN8lSfGo8UHW-kS36_fVNqD_k" alt="Test of the radio command on the drone" width="auto"><br>
       <b>Test of the radio command on the drone</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1Nsc7zK120F_ogPw5t2Hz9_iub8flBePr" alt="Test of the signal send by the radio" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1Nsc7zK120F_ogPw5t2Hz9_iub8flBePr" alt="Test of the signal send by the radio" width="auto"><br>
       <b>Test of the signal send by the radio</b>
     </td>
   </tr>
@@ -143,11 +143,11 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1hKqtqZbd135iH9xSw_mX1w1HsMueR70T" alt="Discharge curve of the used battery" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1hKqtqZbd135iH9xSw_mX1w1HsMueR70T" alt="Discharge curve of the used battery" width="auto"><br>
       <b>Discharge curve of the used battery</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1Xxt2jTy3rwbD49rtWWFR2QejfDRoqSlG" alt="Stabilization power required" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1Xxt2jTy3rwbD49rtWWFR2QejfDRoqSlG" alt="Stabilization power required" width="auto"><br>
       <b>Stabilization power required</b>
     </td>
   </tr>
@@ -168,11 +168,11 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1dTtlIzr8sCuqPYHOU1dkxSBeVVuwxGWE" alt="View of the test" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1dTtlIzr8sCuqPYHOU1dkxSBeVVuwxGWE" alt="View of the test" width="auto"><br>
       <b>View of the test</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1WE9X7F20h9HV1eTdGOhZ2suHoEalEelE" alt="Results of the power asked during the flight" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1WE9X7F20h9HV1eTdGOhZ2suHoEalEelE" alt="Results of the power asked during the flight" width="auto"><br>
       <b>Results of the power asked during the flight</b>
     </td>
   </tr>
@@ -193,7 +193,7 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1JlPGEiBQBPGsqY5pi0VMuSVhQcODxLOD" alt="Flying autonomous drone" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1JlPGEiBQBPGsqY5pi0VMuSVhQcODxLOD" alt="Flying autonomous drone" width="auto"><br>
       <b>Flying autonomous drone</b>
     </td>
   </tr>
