@@ -18,11 +18,11 @@
 <table style="border: none;">
   <tr>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1-g6ZamxnZHwk6Sl2U2UhmgXwc5o1zDx5" alt="Front View of the power chain test" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1-g6ZamxnZHwk6Sl2U2UhmgXwc5o1zDx5" alt="Front View of the power chain test" width="auto"><br>
       <b>Front View of the power chain test</b>
     </td>
     <td align="center"  style="border: none;">
-      <img src="https://drive.google.com/uc?export=view&id=1c1gRYpmMrDUK6on2Ys8TTRmiHXrLoRBF" alt="Side View of the power chain test" width="300"><br>
+      <img src="https://drive.google.com/uc?export=view&id=1c1gRYpmMrDUK6on2Ys8TTRmiHXrLoRBF" alt="Side View of the power chain test" width="auto"><br>
       <b>Side View of the power chain test</b>
     </td>
   </tr>
