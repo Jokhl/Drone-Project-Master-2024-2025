@@ -3,11 +3,11 @@
     <table style="border: none;">
       <tr>
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1mhiAB3AUSWgGtcH4OUx5kZJcbENg6C26" alt="Front View" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1mhiAB3AUSWgGtcH4OUx5kZJcbENg6C26" alt="Front View" width="auto"><br>
           <b>Front View</b>
         </td>
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1eGuo_ZY5YsGg81ZiYGtS0nQbABL58_M9" alt="Back View" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1eGuo_ZY5YsGg81ZiYGtS0nQbABL58_M9" alt="Back View" width="auto"><br>
           <b>Back View</b>
         </td>
       </tr>
@@ -64,7 +64,7 @@ Anchor anchors[3] = {
     </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Example of anchor positioning for tag configuration" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Example of anchor positioning for tag configuration" width="auto"><br>
           <b>Example of anchor positioning for tag configuration</b>
         </td>
     </table>
@@ -81,11 +81,11 @@ const char* password = "YourWiFiPassword";</pre>
     </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1CfWfBSkVuJKMw5xtFqDtPJ2En5hf7A5C" alt="3D Print on the printer" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1CfWfBSkVuJKMw5xtFqDtPJ2En5hf7A5C" alt="3D Print on the printer" width="auto"><br>
           <b>3D Print on the printer</b>
         </td>
         <td align="center"  style="border: none;">
-          <img src="https://drive.google.com/uc?export=view&id=1v2WcK0cmV-BQclsd4JV1Uzgyqit0P7hA" alt="3D Print result" width="300"><br>
+          <img src="https://drive.google.com/uc?export=view&id=1v2WcK0cmV-BQclsd4JV1Uzgyqit0P7hA" alt="3D Print result" width="auto"><br>
           <b>3D Print result</b>
         </td>
     </table>
