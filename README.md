@@ -71,7 +71,5 @@
             </ul>
         </li>
     </ul> 
-    <BR>
-    <h3>💡 Feel free to contribute to this project! 🚀</h3>
 </body>
 </html>
