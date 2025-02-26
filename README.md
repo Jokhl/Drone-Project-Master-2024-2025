@@ -13,7 +13,7 @@
     This test was essential as it enabled the completion of all other tests and ensured that the drone was certified capable of meeting the defined objectives without taking risks by testing it in real simulations. It was therefore an indispensable step in the validation strategy.
 </p>
 
-<p>📌 The test results can be found under the name 'Test_motor_bench'.</p>
+<p>📌 The test results can be found under the name <code>Test_motor_bench</code>.</p>
 
 <table style="border: none;">
   <tr>
@@ -138,7 +138,7 @@
     In the end, 13 consecutive flights were made during this test and the interpretation of the results showed that all performance criteria were met. The battery discharge occurred correctly, the values were displayed correctly on the Web interface and were consistent with visual observations of the drone. The obtained results revealed a discharge curve that corresponded well to that of a LiPo battery with a thrust command that naturally increased as the battery discharged. The critical zone, marking the beginning of the critical area, was defined at exactly 15 minutes, corresponding well to the theoretical estimates made previously. Additionally, a value range for the thrust command between 1300 and 1400 was defined, encompassing more than 95% of the measured points. The results also allowed for visualization of the different stabilization levels of the drone with a command necessary to allow the drone to compensate for its own weight around 1250 and a stabilization command in the air around 1330.
 </p>
 
-<p>📌 The test results can be found under the name 'Test_pwm_takeoff_&_steady_flight'. Moreover, the code to generate the curves thanks to the values can be found under the name 'Values_analyse_&_extraction'. The last file 'Get_thrust_data_WiFi' gives the code to run on the ESP-WROOM-32 to obtain the power values on a WebSerial support.</p>
+<p>📌 The test results can be found under the name <code>TTest_pwm_takeoff_&_steady_flight</code>. Moreover, the code to generate the curves thanks to the values can be found under the name <code>TValues_analyse_&_extraction</code>. The last file <code>TGet_thrust_data_WiFi</code> gives the code to run on the ESP-WROOM-32 to obtain the power values on a WebSerial support.</p>
 
 <table style="border: none;">
   <tr>
