@@ -113,7 +113,7 @@
         <li>Identify and mitigate potential failure modes</li>
         <li>Optimize battery usage and flight performance</li>
     </ul>
-    <p>A complete virtual testbed is available in the 'Matlab_Simulink_drone' file, allowing for parameter adjustments and scenario testing.</p>
+    <p>A complete virtual testbed is available in the <code>Matlab_Simulink_drone</code> file, allowing for parameter adjustments and scenario testing.</p>
     <h2>🔍 Testing & Performance</h2>
     <p>Extensive testing was conducted to validate both the simulation results and the physical drone performance:</p>
     <ul>
@@ -134,7 +134,7 @@
     <p>
         To achieve these objectives, development relies on existing platforms selected as the basis for designing the demonstrator. While these platforms are limited by incomplete information on the final product structure, they allow for assessing the feasibility and credibility of the concept for future mass production. 
     <p>
-        This report details the entire development process, from the initial functional analysis to the demonstration of the assembled demonstrator. It outlines critical engineering decisions, applied methodologies, and the results of testing phases, with a focus on traceability and performance optimization. The approach followed was structured around system engineering principles: needs analysis, functional decomposition, justification of technical choices, integration of subsystems, and final validation through experimentation. This resulted in the creation of a complete virtual system under Matlab/Simulink, available in the file 'Matlab_Simulink_drone,' in order to quantify all parameters and bridge the gap between theory and practice.</p>
+        This report details the entire development process, from the initial functional analysis to the demonstration of the assembled demonstrator. It outlines critical engineering decisions, applied methodologies, and the results of testing phases, with a focus on traceability and performance optimization. The approach followed was structured around system engineering principles: needs analysis, functional decomposition, justification of technical choices, integration of subsystems, and final validation through experimentation. This resulted in the creation of a complete virtual system under Matlab/Simulink, available in the file <code>Matlab_Simulink_drone</code>, in order to quantify all parameters and bridge the gap between theory and practice.</p>
     <p>
         The project team comprises Nicolas ABAT, Alexandre CASTEX, Thomas FORTUNATO, Constance NGUYEN, Julien TAKTALIAN, and Joachim KOEHL as project managers. 
     </p>
