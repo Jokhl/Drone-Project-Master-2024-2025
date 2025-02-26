@@ -1,6 +1,6 @@
 <h1>🚁 Autonomous & Manual QuadCopter Project</h1>
     <h2>📌 Project Overview</h2>
-    <p>The AutoQuad project, entrusted to our team of six french engineering students by Dragonfly 4U, is part of the development and validation of a complex system. The goal was to design a physical demonstrator of a quadcopter drone integrating two flight modes: manual and autonomous.</p>
+    <p>The AutoQuad project, entrusted to our team of six french engineering students by Dragonfly 4U, is part of the development and validation of a complex system. The goal was to design a physical demonstrator of a quadcopter drone integrating two flight modes: manual and autonomous. The project team comprises Nicolas ABAT, Alexandre CASTEX, Thomas FORTUNATO, Constance NGUYEN, Julien TAKTALIAN, and Joachim KOEHL as project managers.</p>
     <p>This project represented a high-value engineering challenge, requiring mastery of design, integration, and experimental validation processes. The specifications outlined the following requirements:</p>
     <ol>
         <li>Operating modes:
@@ -131,6 +131,3 @@
         To achieve these objectives, development relies on existing platforms selected as the basis for designing the demonstrator. While these platforms are limited by incomplete information on the final product structure, they allow for assessing the feasibility and credibility of the concept for future mass production. 
     <p>
         This report details the entire development process, from the initial functional analysis to the demonstration of the assembled demonstrator. It outlines critical engineering decisions, applied methodologies, and the results of testing phases, with a focus on traceability and performance optimization. The approach followed was structured around system engineering principles: needs analysis, functional decomposition, justification of technical choices, integration of subsystems, and final validation through experimentation. This resulted in the creation of a complete virtual system under Matlab/Simulink, available in the file <code>Matlab_Simulink_drone</code>, in order to quantify all parameters and bridge the gap between theory and practice.</p>
-    <p>
-        The project team comprises Nicolas ABAT, Alexandre CASTEX, Thomas FORTUNATO, Constance NGUYEN, Julien TAKTALIAN, and Joachim KOEHL as project managers. 
-    </p>
