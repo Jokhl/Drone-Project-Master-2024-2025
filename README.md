@@ -83,22 +83,6 @@
     </ul> 
     <h3>Electronic Components</h3>
     <p>All electronic components are detailed in the <code>soft-& hardware</code> section.</p>
-    <h2>🖥️ CAD Design & Mechanical Engineering</h2>
-    <p>The mechanical design of our quadcopter was entirely developed using CAD software to ensure optimal component placement, weight distribution, and aerodynamic performance.</p>
-    <ul>
-        <li><strong>Frame Design:</strong> Starting with the F450 frame, we optimized the structure to accommodate additional sensors and electronics while maintaining strength and minimizing weight.</li>
-        <li><strong>Component Mounting:</strong> Custom-designed mounts for the following components:
-            <ul>
-                <li>Onboard computer housing with ventilation</li>
-                <li>Sensor platforms with vibration isolation</li>
-                <li>Battery compartment with quick-release mechanism</li>
-                <li>Camera gimbal with stabilization</li>
-            </ul>
-        </li>
-        <li><strong>Cable Management:</strong> Integrated cable routing to minimize electromagnetic interference and maintain a clean profile.</li>
-        <li><strong>Protective Elements:</strong> Propeller guards and landing gear designed to protect critical components during testing.</li>
-    </ul>
-    <p>All CAD models were validated through structural analysis to ensure they could withstand the forces experienced during flight, including emergency maneuvers.</p>
     <h2>📊 Matlab/Simulink Modeling & Control</h2>
     <p>A comprehensive virtual model of the quadcopter was developed using Matlab/Simulink to design and validate the control algorithms before implementation on the physical drone.</p>
     <h3>Simulation Models</h3>
@@ -120,13 +104,6 @@
             </ul>
         </li>
         <li><strong>Battery Discharge Model:</strong> Prediction of flight time based on power consumption and maneuvers.</li>
-    </ul>
-    <h3>Control System Design</h3>
-    <ul>
-        <li><strong>Cascaded PID Controllers:</strong> For attitude (roll, pitch, yaw) and position control.</li>
-        <li><strong>State Estimation:</strong> Extended Kalman Filter for sensor fusion and state estimation.</li>
-        <li><strong>Trajectory Generation:</strong> Smooth trajectory planning for the autonomous flight sequence.</li>
-        <li><strong>Mode Switching Logic:</strong> Safe transition between manual and autonomous modes.</li>
     </ul>
     <h3>Simulation Results</h3>
     <p>The Matlab/Simulink model allowed us to:</p>
