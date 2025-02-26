@@ -1,6 +1,6 @@
 <h1>🚁 Autonomous & Manual QuadCopter Project</h1>
     <h2>📌 Project Overview</h2>
-    <p>The AutoQuad project, entrusted to our team of six engineering students by Dragonfly 4U, is part of the development and validation of a complex system. The goal was to design a physical demonstrator of a quadcopter drone integrating two flight modes: manual and autonomous.</p>
+    <p>The AutoQuad project, entrusted to our team of six french engineering students by Dragonfly 4U, is part of the development and validation of a complex system. The goal was to design a physical demonstrator of a quadcopter drone integrating two flight modes: manual and autonomous.</p>
     <p>This project represented a high-value engineering challenge, requiring mastery of design, integration, and experimental validation processes. The specifications outlined the following requirements:</p>
     <ol>
         <li>Operating modes:
