@@ -92,7 +92,6 @@
                 <li>Aerodynamic forces and moments</li>
                 <li>Motor dynamics and thrust models</li>
                 <li>Inertial properties from CAD designs</li>
-                <li>Environmental disturbances (wind, turbulence)</li>
             </ul>
         </li>
         <li><strong>Sensor Models:</strong> Realistic sensor models including noise characteristics for:
