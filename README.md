@@ -116,24 +116,24 @@ const char* password = "YourWiFiPassword";</pre>
 <p>At this stage, the flying base including the frame, motors, ESCs, battery, and power module is not yet present.  
 The assembly on the dedicated support should therefore include the following components:</p>
 <ul>
-    <li>📌 <strong>Radio receiver</strong> FlySky FS-ia6b</li>
-    <li>📌 <strong>PWM to PPM encoder</strong></li>
-    <li>📌 <strong>Trainer module</strong> Protoronik 4ch Trainer</li>
-    <li>📌 <strong>Flight controller</strong> Radiolink Crossflight v1</li>
-    <li>📌 <strong>ESP32-WROOM-32</strong></li>
-    <li>📌 <strong>ESP32-UWB-DW1000</strong></li>
-    <li>📌 <strong>Green and red LEDs</strong></li>
-    <li>📌 <strong>4x4 Keypad</strong></li>
-    <li>📌 <strong>Buzzer</strong></li>
-    <li>📌 <strong>OLED screen</strong></li>
+    <li><strong>Radio receiver</strong> FlySky FS-ia6b</li>
+    <li><strong>PWM to PPM encoder</strong></li>
+    <li><strong>Trainer module</strong> Protoronik 4ch Trainer</li>
+    <li><strong>Flight controller</strong> Radiolink Crossflight v1</li>
+    <li><strong>ESP32-WROOM-32</strong></li>
+    <li><strong>ESP32-UWB-DW1000</strong></li>
+    <li><strong>Green and red LEDs</strong></li>
+    <li><strong>4x4 Keypad</strong></li>
+    <li><strong>Buzzer</strong></li>
+    <li><strong>OLED screen</strong></li>
 </ul>
 <p>Now, by connecting the <strong>ESP32-WROOM-32</strong> and the <strong>ESP32-UWB-DW1000</strong>, which serves as a tag, 
 via their micro-USB port to a computer 💻 (or an external battery 🔋) to provide power, 
 we can verify the proper functioning of the onboard electronics using:</p>
 <ul>
-    <li>📌 <strong>The OLED screen</strong></li>
-    <li>📌 <strong>The LEDs</strong></li>
-    <li>📌 <strong>The sound signals</strong></li>
+    <li><strong>The OLED screen</strong></li>
+    <li><strong>The LEDs</strong></li>
+    <li><strong>The sound signals</strong></li>
 </ul>
 <p>These elements allow displaying the appropriate information based on the actions performed on the system and the procedure 
 triggered by the remote controller.</p>
