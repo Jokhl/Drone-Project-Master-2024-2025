@@ -82,7 +82,7 @@
         </li>
     </ul> 
     <h3>Electronic Components</h3>
-    <p>All electronic components are detailed in the 'soft-& hardware' section.</p>
+    <p>All electronic components are detailed in the <code>soft-& hardware</code> section.</p>
     <h2>🖥️ CAD Design & Mechanical Engineering</h2>
     <p>The mechanical design of our quadcopter was entirely developed using CAD software to ensure optimal component placement, weight distribution, and aerodynamic performance.</p>
     <ul>
