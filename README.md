@@ -18,7 +18,7 @@
         <li><strong>Antenna-Calibration.ino</strong> – Calibrates the signal transmission delay of ground anchors.</li>
         <li><strong>Anchor-Configuration.ino</strong> – Configures the ground anchors with the calibrated delay.</li>
         <li><strong>ESP32-UWB-DW1000.ino</strong> – Code for the ESP32-UWB-DW1000 used as a tag.</li>
-        <li><strong>ESP-WROOM-32.ino</strong> – Code for the ESP32 used as the control and decision-making unit.</li>
+        <li><strong>ESP-32-WROOM.ino</strong> – Code for the ESP32 used as the control and decision-making unit.</li>
         <li><strong>Electrical-component-support.step</strong> – CAO file for the pink support for electrical component.</li>
     </ul>
     <h3>⚙️ Required Components for this part (this does not refer to the entire system)</h3>
