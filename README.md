@@ -95,7 +95,7 @@
         <li>Power the three ground anchors using external batteries or different computers for easy placement.</li>
         <li>Connect all necessary components according to the provided .xlsx file.</li>
         <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
-        <li>Program the <code>ESP-32-WROOM</code> code into the ESP-32-WROOM. 
+        <li>Program the <code>ESP-32-WROOM</code> code into the ESP32-WROOM. 
         <li>In addition, you may use the WiFi mode of the ESP-WROOM-32 to open a WebSerial page on your pc (which has to be connected to the same network as your card). Simply update the following WiFi credentials : <pre>
 const char* ssid = "YourWiFiSSID";
 const char* password = "YourWiFiPassword";</pre>
@@ -127,7 +127,7 @@ The assembly on the dedicated support should therefore include the following com
     <li><strong>Buzzer</strong></li>
     <li><strong>OLED screen</strong></li>
 </ul>
-<p>Now, by connecting the <strong>ESP32-WROOM-32</strong> and the <strong>ESP32-UWB-DW1000</strong>, which serves as a tag, 
+<p>Now, by connecting the <strong>ESP32-WROOM</strong> and the <strong>ESP32-UWB-DW1000</strong>, which serves as a tag, 
 via their micro-USB port to a computer (or an external battery) to provide power, 
 we can verify the proper functioning of the onboard electronics using:</p>
 <ul>
