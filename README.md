@@ -38,10 +38,7 @@
         <li>📌 <a href="https://www.amazon.fr/ARCELI-Performance-Couleur-Puissance-%C3%89missives/dp/B07PVVHBNW/ref=sr_1_7?dib=eyJ2IjoiMSJ9.cZm-YS2Aq4tNyjvKj8-KAaG564tPYUAQFLwHQLojSVbnDCz-8Dclj6YFTSlwDBk6AoNv6q0foh_i-rv9wl4Dh-yMw0bpG7Q5jfmYCIs7XDl_SqoQgRy84nm2LqYE3hc_1Y3A-pXvHJfxDxQk8riJYYeO15Dw_gzYVSodg-AhxDUr-96XLG0EXKZUXxyvKxEwo8RLCI4wD1MZazhj2R55nvLllaDLlIJSSzY_cY8OxDJQTY8f5OQSvLlkJQ9mBmYDeduEWjLDd8TR4l9E938qc0VbR3mkf1LRc1hho28aUsUKaB_OsEeFZXdTOBwf3RacH1hMXBbbTDw-1XOS6LGK19wjKuDde_gclAw3A7q1SXxMaKMLFXNzfWJmpL60HKypzZrRL4dm2zAWxyXMzuqOLGPOpUm5BwX-7tQ5u270rWSTLtAO3aMXHS_QpyeclscX.3gygZ2NSXSn_hwcfh2gS7CXBOOGdzoU5mdTnjwMjlkA&dib_tag=se&keywords=led+arduino&qid=1740479071&sr=8-7l">Green LED
     </ul>
     <h3>💧 Setup & Usage Guide</h3>
-    <h1>UWB DW1000 Calibration and Setup Guide</h1>
-    <p>This guide details the procedure for calibrating and configuring UWB DW1000 modules for a positioning system.</p>
-    <h2>Calibration and Configuration Procedure</h2>
-    <h3>1. Anchor Calibration</h3>
+    <h4>1. Anchor Calibration</h4>
     <ol>
         <li>Position one module as a reference tag (at the origin) and another module as the anchor to be calibrated at a known distance (e.g., 1 meter).</li>
         <li>Program the reference tag with the <code>ESP32_UWB_setup_tag</code> code (which uses the default antenna delay of 16384).</li>
@@ -53,8 +50,7 @@
         </li>
         <li>Monitor the serial output of the anchor. The program will perform a binary search to find the optimal <code>Adelay</code> value. Note the final value displayed (<code>final Adelay</code>).</li>
     </ol>
-    <h3>2. Final Anchor Configuration</h3>
-    <p>After calibration, for each anchor:</p>
+    <h4>2. Final Anchor Configuration</h4>
     <ol>
         <li>Program the anchor with the <code>ESP32_UWB_setup_anchor</code> code, modifying:
             <ul>
@@ -65,10 +61,10 @@
         </li>
         <li>Repeat this process for each anchor in your system.</li>
     </ol>
-    <h3>3. Tag Configuration</h3>
+    <h4>3. Tag Configuration</h4>
     <p>For the tag that will be used for positioning:</p>
     <ol>
-        <li>Program it with your main tag code (e.g., "ESP32-UWB-DW1000.ino").</li>
+        <li>Program it with your main tag code <code>ESP32-UWB-DW1000</code>.</li>
         <li>In the tag code, configure the anchor positions according to your physical layout:
     <pre><code>Anchor anchors[3] = {
         {0x84, 0.0, 0.0, 0.0}, // Short address of anchor #1 and its position (x,y,z)
@@ -77,28 +73,16 @@
     };</code></pre>
         </li>
     </ol>
-    <h2>Important Notes</h2>
+    <h4>Important Notes</h4>
     <ul>
         <li>The leftmost two bytes of the MAC address (<code>char anchor_addr[]</code> or <code>char tag_addr[]</code>) will become the short address used in the system.</li>
         <li>It is recommended to follow a consistent naming convention, for example using 0x81, 0x82, 0x83... for anchors.</li>
         <li>The antenna delay values (<code>Adelay</code>) are specific to each hardware module and must be individually calibrated for optimal precision.</li>
         <li>Ensure that all modules are positioned correctly during calibration for accurate results.</li>
-    </ul>
-    <h2>Code Files</h2>
-    <h3>ESP32_UWB_setup_tag</h3>
-    <p>Use this code to set up a tag with default antenna delay. This tag will be used for calibrating the anchors.</p>
-    <h3>ESP32_anchor_autocalibrate</h3>
-    <p>Use this code to automatically calibrate an anchor by finding the optimal antenna delay value.</p>
-    <h3>ESP32_UWB_setup_anchor</h3>
-    <p>Use this code for the final configuration of each anchor, using the calibrated antenna delay value.</p>
-    <h2>Troubleshooting</h2>
-    <ul>
         <li>If the calibration process doesn't converge, ensure that the physical distance between the tag and anchor matches the value in <code>this_anchor_target_distance</code>.</li>
         <li>Verify that all modules have clear line-of-sight during calibration.</li>
         <li>Make sure all connections are secure and the modules are properly powered.</li>
     </ul>
-        </li>
-    </ol>
     <table style="border: none;">
         <td align="center"  style="border: none;">
           <img src="https://drive.google.com/uc?export=view&id=1FGZZTgq0lUtnmhsNHxwCyO7RzLgKHPUs" alt="Example of anchor positioning for tag configuration" width="auto"><br>
