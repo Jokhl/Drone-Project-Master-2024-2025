@@ -89,12 +89,13 @@
           <b>Example of anchor positioning for tag configuration</b>
         </td>
     </table>
-    <h4>System Setup</h4>
+    <h4>4. System Setup</h4>
     <ol>
         <li>3D Print the support give by the .step file
         <li>Power the three ground anchors using external batteries or different computers for easy placement.</li>
         <li>Connect all necessary components according to the provided .xlsx file.</li>
         <li>Start the drone system and connect the ESPs to computers to verify correct functionality.</li>
+        <li>Program the <code>ESP-WROOM-code</code> code into the ESP-WROOM-32. 
         <li>In addition, you may use the WiFi mode of the ESP-WROOM-32 to open a WebSerial page on your pc (which has to be connected to the same network as your card). Simply update the following WiFi credentials : <pre>
 const char* ssid = "YourWiFiSSID";
 const char* password = "YourWiFiPassword";</pre>
