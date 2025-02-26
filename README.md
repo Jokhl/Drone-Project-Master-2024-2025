@@ -99,8 +99,6 @@
             <ul>
                 <li>IMU (accelerometer, gyroscope, magnetometer)</li>
                 <li>GPS/Indoor positioning system</li>
-                <li>Ultrasonic altitude sensor</li>
-                <li>Optical flow for velocity estimation</li>
             </ul>
         </li>
         <li><strong>Battery Discharge Model:</strong> Prediction of flight time based on power consumption and maneuvers.</li>
@@ -119,15 +117,13 @@
     <ul>
         <li><strong>Component Testing:</strong> Individual validation of sensors, motors, and control systems.</li>
         <li><strong>Hardware-in-the-Loop Testing:</strong> Integration of the physical flight controller with the simulation environment.</li>
-        <li><strong>Controlled Environment Testing:</strong> Initial flight tests in indoor environments with motion capture systems.</li>
-        <li><strong>Field Testing:</strong> Outdoor testing under various weather conditions.</li>
+        <li><strong>Controlled Environment Testing:</strong> Initial flight tests in indoor environments with motion capture.</li>
     </ul>
     <h3>Performance Metrics</h3>
     <ul>
         <li><strong>Altitude Stability:</strong> ±5cm in hover mode</li>
         <li><strong>Position Accuracy:</strong> ±10cm at checkpoints</li>
-        <li><strong>Wind Tolerance:</strong> Stable operation in winds up to 15 km/h</li>
-        <li><strong>Battery Life:</strong> 12 minutes of continuous flight time</li>
+        <li><strong>Battery Life:</strong> 15 minutes of continuous flight time</li>
         <li><strong>Mode Switching:</strong> Instantaneous transition with no observable latency</li>
     </ul>
     <h2>🏆 Achievement</h2>
