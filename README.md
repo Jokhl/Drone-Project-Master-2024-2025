@@ -120,7 +120,7 @@ The assembly on the dedicated support should therefore include the following com
     <li><strong>PWM to PPM encoder</strong></li>
     <li><strong>Trainer module</strong> Protoronik 4ch Trainer</li>
     <li><strong>Flight controller</strong> Radiolink Crossflight v1</li>
-    <li><strong>ESP32-WROOM-32</strong></li>
+    <li><strong>ESP32-WROOM</strong></li>
     <li><strong>ESP32-UWB-DW1000</strong></li>
     <li><strong>Green and red LEDs</strong></li>
     <li><strong>4x4 Keypad</strong></li>
