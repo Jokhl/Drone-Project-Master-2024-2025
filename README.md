@@ -112,7 +112,7 @@ const char* password = "YourWiFiPassword";</pre>
         </td>
     </table>
 <h3>🔌 Electronic System Overview</h3>
-<p>Once the system is installed according to the previous requirements, it can be tested. ✅</p>
+<p>Once the system is installed according to the previous requirements, it can be tested.</p>
 <p>At this stage, the flying base including the frame, motors, ESCs, battery, and power module is not yet present.  
 The assembly on the dedicated support should therefore include the following components:</p>
 <ul>
@@ -128,7 +128,7 @@ The assembly on the dedicated support should therefore include the following com
     <li><strong>OLED screen</strong></li>
 </ul>
 <p>Now, by connecting the <strong>ESP32-WROOM-32</strong> and the <strong>ESP32-UWB-DW1000</strong>, which serves as a tag, 
-via their micro-USB port to a computer 💻 (or an external battery 🔋) to provide power, 
+via their micro-USB port to a computer (or an external battery) to provide power, 
 we can verify the proper functioning of the onboard electronics using:</p>
 <ul>
     <li><strong>The OLED screen</strong></li>
@@ -137,6 +137,5 @@ we can verify the proper functioning of the onboard electronics using:</p>
 </ul>
 <p>These elements allow displaying the appropriate information based on the actions performed on the system and the procedure 
 triggered by the remote controller.</p>
-<p>Now, we can move on to the <strong>testing phase</strong>... 🔬✨</p>
 
 
